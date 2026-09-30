@@ -2,7 +2,7 @@
 
 I have a BSc in Management Engineering and I'm doing an MSc in Operations Management, currently on Erasmus in Bragança, Portugal. I build web apps, and I start each one by modelling the process and the database before writing code.
 
-Portfolio: [michimodu99.github.io](https://michimodu99.github.io) · Email: [michelemodugno99@gmail.com](mailto:michelemodugno99@gmail.com)
+Portfolio: [michimodu99.github.io](https://michimodu99.github.io) · Email: [michelemodugno99@gmail.com](mailto:michelemodugno99@gmail.com) · [LinkedIn](https://www.linkedin.com/in/michele-modugno-09939718b/)
 
 | Project | What it is | Stack |
 |---|---|---|
